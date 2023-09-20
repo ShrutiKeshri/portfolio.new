@@ -92,7 +92,9 @@ h3>span> strong{
   color:var(--primary-color);
   font-size: 36px;
 }
-
+.developer_img{
+  width: 70%;
+}
 .name {
   color: rgb(54, 57, 57);
   font-family: "Poppins", sans-serif;
